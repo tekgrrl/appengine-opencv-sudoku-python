@@ -1,5 +1,5 @@
 application: vms-sudoku-demo
-version: frog
+version: test
 runtime: python27
 api_version: 1
 threadsafe: yes
