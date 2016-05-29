@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-"""Managed VMs sample application using OpenCV, App Engine Modules, and Task Queues."""
+"""App Engine Flex sample application using OpenCV, App Engine Modules, and Task Queues."""
 
 import base64
 import jinja2
